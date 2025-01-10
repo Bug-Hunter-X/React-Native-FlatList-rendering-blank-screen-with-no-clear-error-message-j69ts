@@ -1,0 +1,1 @@
+This error occurs when using the `FlatList` component in React Native and providing an invalid or inconsistent data structure to the `data` prop.  It's especially tricky because the error message itself isn't always clear.  The symptom is often a blank screen or a crash without a descriptive error message in the console.
